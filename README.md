@@ -18,9 +18,11 @@ ________________________________________
 •	Enable proactive credit policy monitoring through data visualization
 ________________________________________
 
-🗂 Dataset
+🗂 Dataset Sources
 
 •	Format: CSV
+
+•	Source : Kaggle
 
 •	Scope: Retail loan applications
 
