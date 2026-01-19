@@ -1,5 +1,12 @@
 # Retail-Loan-Risk-Analysis---Powerbi
 
+> **Tools:** Power BI | Excel  | Power Query | Data Modeling  
+> **Domain:** Finance | Banking | Loan Risk Analysis
+
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-white)
+![Excel](https://img.shields.io/badge/Tool-Excel-yellow?style=for-the-badge)
+![Domain-Finance](https://img.shields.io/badge/Domain-Finance-green)
+
 📌 Project Overview
 
 This project focuses on analyzing a comprehensive dataset of loan applicants to understand the key factors influencing loan approval decisions and to build a robust performance dashboard. 
