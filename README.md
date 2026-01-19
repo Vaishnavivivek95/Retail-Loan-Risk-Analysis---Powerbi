@@ -99,7 +99,7 @@ This analysis supports a shift from EMI-focused lending to a risk-aware, policy-
 By visualizing key risk drivers and approval patterns, financial institutions can enhance credit quality, reduce defaults, and align lending practices with regulatory and business standards.
 ________________________________________
 
-## Author
+## Author #
 
 Vaishnavi S 
 
