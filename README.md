@@ -3,9 +3,10 @@
 > **Tools:** Power BI | Excel  | Power Query | Data Modeling  
 > **Domain:** Finance | Banking | Loan Risk Analysis
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-white)
-![Excel](https://img.shields.io/badge/Tool-Excel-yellow?style=for-the-badge)
-![Domain-Finance](https://img.shields.io/badge/Domain-Finance-green)
+![Power BI](https://img.shields.io/badge/Tool-Power_BI-217346)
+![Excel](https://img.shields.io/badge/Tool-Excel-F2C811)
+![Domain-Finance](https://img.shields.io/badge/Domain-Finance-20BEFF)
+
 
 📌 Project Overview
 
