@@ -1,4 +1,4 @@
-# 💼📊 Retail Loan Analysis
+# 💼📊 Retail Loan Risk Analysis
 
 > **Tools:** Power BI | Excel  | Power Query | Data Modeling  
 > **Domain:** Finance | Banking | Loan Risk Analysis
