@@ -1,4 +1,4 @@
-# Retail-Loan-Risk-Analysis---Powerbi
+# 💼📊 Retail Loan Analysis
 
 > **Tools:** Power BI | Excel  | Power Query | Data Modeling  
 > **Domain:** Finance | Banking | Loan Risk Analysis
@@ -99,3 +99,10 @@ This analysis supports a shift from EMI-focused lending to a risk-aware, policy-
 By visualizing key risk drivers and approval patterns, financial institutions can enhance credit quality, reduce defaults, and align lending practices with regulatory and business standards.
 ________________________________________
 
+## Author
+
+Vaishnavi S 
+
+LinkedIn  [Vaishnavi S](www.linkedin.com/in/vaishnavis95) 
+
+Email [vaishmani1995@gmail.com]
